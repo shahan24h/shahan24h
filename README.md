@@ -1,7 +1,4 @@
-cat("Hi, I'm Shahan Ahmed\n")
-
- Data Analyst | AI Researcher | Automation & Cybersecurity Enthusiast 
- Specializing in machine learning, intelligent document processing, and secure data-driven solutions for real-world impact.
+## cat("Hi,\n")
 
 
 ## GitHub Streak Stats
