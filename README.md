@@ -6,7 +6,7 @@ cat("Hi, I'm Shahan Ahmed\n")
 
 ## GitHub Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shahan24h&theme=cyber-streakglow&border_radius=4.2&date_format=%5BY.%5Dn.j&card_width=1000&card_height=350)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shahan24h&theme=taiga&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=1000&card_height=397)](https://git.io/streak-stats)
 
 ## Programming Language
 
