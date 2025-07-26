@@ -1,11 +1,12 @@
 # Hi, I'm Shahan Ahmed
 
- Data Analyst | Researcher | Automation Enthusiast  
- Passionate about machine learning, document classification, and AI for public good.
+ Data Analyst | AI Researcher | Automation & Cybersecurity Enthusiast 
+ Specializing in machine learning, intelligent document processing, and secure data-driven solutions for real-world impact.
+
 
 ## GitHub Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shahan24h&theme=microsoft-dark&mode=weekly&card_width=494)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shahan24h&theme=cyber-streakglow&border_radius=4.2&date_format=%5BY.%5Dn.j&card_width=1000&card_height=350)](https://git.io/streak-stats)
 
 ## Programming Language
 
@@ -61,7 +62,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shahan24h)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-100000?style=for-the-badge&logo=GoogleScholar&logoColor=white&labelColor=blue&color=blue)](https://scholar.google.com/citations?user=ROqm-4EAAAAJ)
-[![Web](https://www.shahanahmed.com/)
+---
+
+## My Website
+Visit: [https://shahanahmed.com](https://shahanahmed.com)
 
 
 ---
