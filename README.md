@@ -22,7 +22,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
-##Geospatial Tools
+## Geospatial Tools
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-4479A1?style=for-the-badge&logo=esri&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![GeoDa](https://img.shields.io/badge/GeoDa-003366?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAAAv...)
@@ -61,6 +61,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shahan24h)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-100000?style=for-the-badge&logo=GoogleScholar&logoColor=white&labelColor=blue&color=blue)](https://scholar.google.com/citations?user=ROqm-4EAAAAJ)
+[![Web](https://www.shahanahmed.com/)
+
 
 ---
 
